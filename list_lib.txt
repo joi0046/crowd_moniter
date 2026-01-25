@@ -1,0 +1,6 @@
+# 必要なライブラリ一覧！
+ultralytics
+opencv-python
+flask
+sqlalchemy
+pydantic
