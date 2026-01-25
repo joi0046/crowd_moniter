@@ -3,24 +3,24 @@
 仕組みとしてはOPENCVでトラッキングをして重心移動による入退場判定でカウントする。
 
 ## ディレクトリ構成
-git_hub
-|crowd_moniter
-    |--README.md　
-    |--main.py　メイン処理
-    |--detecter.py　人物検出
-    |--tracker.py　トラッキング
-    |--counter.py　入退場判定と人数更新
-    |--apiserver.py　APIの提供
-    |--db.py　DBの記録、取得
-    |--config.py　設定
-    |--list_lib.txt　依存ライブラリ一覧
-    |--test　テスト
+git_hub  <br>
+|crowd_moniter  <br>
+    |--README.md  <br>
+    |--main.py　メイン処理  <br>
+    |--detecter.py　人物検出  <br>
+    |--tracker.py　トラッキング  <br>
+    |--counter.py　入退場判定と人数更新  <br>
+    |--apiserver.py　APIの提供  <br>
+    |--db.py　DBの記録、取得  <br>
+    |--config.py　設定  <br>
+    |--list_lib.txt　依存ライブラリ一覧  <br>
+    |--test　テスト  <br>
 
 ## 使用技術について
-画像認識
-API(WEBアプリ)
-フロントエンド
-人数データの保存、取得
+画像認識  <br>
+API(WEBアプリ)  <br>
+フロントエンド  <br>
+人数データの保存、取得  <br>
 
 ## 処理フロー
 カメラ -> YORO　-> OPENCV　-> 人数判定　-> DB更新　-> API -> 表示
