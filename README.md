@@ -28,8 +28,8 @@ API(WEBアプリ)  <br>
 カメラ -> YORO　-> OPENCV　-> 人数判定　-> DB更新　-> API -> 表示
 
 ## データベース設計
-テーブル名: log_deta
--id (int)
--timestamp(datetime)
--location(text)(str)
--current_count(int)
+テーブル名: log_deta  <br>
+-id (int)  <br>
+-timestamp(datetime)  <br>
+-location(text)(str)  <br>
+-current_count(int)  <br>
