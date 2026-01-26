@@ -6,7 +6,7 @@
 git_hub  <br>
 |crowd_moniter  <br>
     |--README.md  <br>
-    |--memo.txt その場のメモ帳  <br>
+    |--memo.txt メモ帳  <br>
     |--list_lib.txt　依存ライブラリ一覧  <br>
     |--main.py　メイン処理  <br>
     |--detecter.py　人物検出  <br>
