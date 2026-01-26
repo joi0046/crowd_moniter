@@ -6,6 +6,8 @@
 git_hub  <br>
 |crowd_moniter  <br>
     |--README.md  <br>
+    |--memo.txt その場のメモ帳  <br>
+    |--list_lib.txt　依存ライブラリ一覧  <br>
     |--main.py　メイン処理  <br>
     |--detecter.py　人物検出  <br>
     |--tracker.py　トラッキング  <br>
@@ -13,8 +15,8 @@ git_hub  <br>
     |--apiserver.py　APIの提供  <br>
     |--db.py　DBの記録、取得  <br>
     |--config.py　設定  <br>
-    |--list_lib.txt　依存ライブラリ一覧  <br>
     |--test　テスト  <br>
+    
 
 ## 使用技術について
 画像認識  <br>
