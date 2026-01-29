@@ -1,4 +1,4 @@
 pythonのバージョンを揃える必要があるかもしれない。-OK  source ./.venv/bin/activate を入力
 必要ライブラリの使い方の確認。
 GPG認証の確認 -OK
-要検索
+要検索 AIにも確認
