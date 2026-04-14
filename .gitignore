@@ -1,7 +1,7 @@
 # .gitignore
 
 # Python仮想環境の無視
-venv/
+.venv/
 __pycache__/
 *.pyc
 
